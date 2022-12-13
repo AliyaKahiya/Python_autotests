@@ -1,8 +1,6 @@
-# pytest cache directory #
-
-This directory contains data from the pytest's cache plugin,
-which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
-
-**Do not** commit this to version control.
-
-See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
+Для выполнения авотестов на Python необходимо:
+- Установить Python c официального сайта https://www.python.org/;
+- Установить VS Code (не забудь поставить галочку «Добавить в PATH»);
+- Установить Python в VS Code;
+- Установить необходимые библиотеки.
+- Для файлов с тестами используем формат test_название файла.ру
